@@ -1,0 +1,8 @@
+name: Matrix Chat
+version: '1.0'
+main: com.sovereigncraft.matrixchat.Matrixchat
+api-version: '1.20'
+commands:
+  chat:
+    description: Matrix integration commands
+    usage: /<command> register <password>

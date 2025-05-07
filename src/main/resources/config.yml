@@ -1,0 +1,4 @@
+matrix:
+  server-url: "https://matrix.example.com"
+  server-name: "example.com"
+  admin-token: "your_admin_access_token_here"
